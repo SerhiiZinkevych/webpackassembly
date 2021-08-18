@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;IACI,8BAAsB;YAAtB,sBAAsB;AAC1B;;AAEA;IACI,sBAAsB;IACtB,cAAc;IACd,iCAAyB;YAAzB,yBAAyB;AAC7B","sources":["webpack:///./styles.css"],"sourcesContent":["* {\n    box-sizing: border-box;\n}\n\nbody {\n    background-color: #fff;\n    color: #212121;\n    transform: translate(50%);\n}\n"],"names":[],"sourceRoot":""}
