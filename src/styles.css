@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fff;
+    color: #212121;
+    transform: translate(50%);
+}
